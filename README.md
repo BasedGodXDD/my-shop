@@ -12,9 +12,9 @@
 дальше вам необходимо установить все зависимости.Клонируйте репозиторий. - git clone https://github.com/BasedGodXDD/my-shop/edit/main
 далее перейдите в каталог проекта.
 установите сами зависимости. - 
-bash ----
+
 npm install
-----
+
 npm start
 
 
