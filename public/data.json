@@ -1,0 +1,94 @@
+{
+"products": [
+{
+"id": 1,
+"title": "Ноутбук ASUS VivoBook 15 как у дениса ярошинского",
+"price": 90000,
+"description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
+"image": "https://avatars.mds.yandex.net/get-mpic/3721790/img_id3339809656940607079.png/orig",
+"category": "electronics",
+"rating": 4.7
+},
+{
+"id": 2,
+"title": "Смартфон iPhone 12 как у дениса ярошинского",
+"price": 90000,
+"description": "6.2 дюймов, 128 ГБ, Phantom Gray",
+"image": "https://avatars.mds.yandex.net/i?id=176fb22134c88a1743ca6131b5ff1026_l-5268158-images-thumbs&n=13",
+"category": "electronics",
+"rating": 4.8
+},
+{
+"id": 3,
+"title": "Наушники Sony WH-1000XM5 как у дениса ярошинского",
+"price": 25000,
+"description": "Беспроводные, шумоподавление, черный",
+"image": "https://avatars.mds.yandex.net/get-mpic/12022975/2a0000018cdeb2833e4d5678b25ca747fe5c/orig",
+"category": "electronics",
+"rating": 4.9
+},
+{
+"id": 4,
+"title": "Часы Casio как у дениса ярошинского",
+"price": 3000,
+"description": "Крутые вообще, черный",
+"image": "https://20.img.avito.st/image/1/1.XCeWGLa58M6gsTLLonV6M2K79sQiO_gMJ7vyyiqx-sw.uWjBwLqsn7MIrg4mtF8Hht8lwxO-09cvJJsBkRVSP8g",
+"category": "electronics",
+"rating": 4.6
+},
+{
+"id": 5,
+"title": "Наушники аирподсе PRO первые как у дениса ярошинского",
+"price": 20000,
+"description": "белые,шумоподовление ",
+"image": "https://cdn1.ozone.ru/s3/multimedia-p/6304022437.jpg",
+"category": "electronics",
+"rating": 4.8
+},
+{
+"id": 6,
+"title": "Nike Sacai как у дениса ярошинскго",
+"price": 15000,
+"description": "черные лакированные",
+"image": "https://cdn1.ozone.ru/s3/multimedia-y/6389477050.jpg",
+"category": "clothing",
+"rating": 4.9
+},
+{
+"id": 7,
+"title": "Монитор MSI как у дениса ярошинского",
+"price": 40000,
+"description": "27 дюймов, 144 герц, IPS",
+"image": "https://ir.ozone.ru/s3/multimedia-n/c1000/6416288219.jpg",
+"category": "electronics",
+"rating": 4.7
+},
+{
+"id": 8,
+"title": "Игровая мышь razer viper v2 pro как у дениса ярошинского",
+"price": 15000,
+"description": "11 программируемых кнопок, RGB",
+"image": "https://ir.ozone.ru/s3/multimedia-7/c1000/6677180539.jpg",
+"category": "electronics",
+"rating": 4.8
+},
+{
+"id": 9,
+"title": "Клавиатура самая дешевая из днс как удениса ярошинского",
+"price": 2000,
+"description": "Механическая, 65%",
+"image": "https://cache3.youla.io/files/images/780_780/58/b7/58b7f51ca6e81bc513502e0c.jpg",
+"category": "electronics",
+"rating": 4.7
+},
+{
+"id": 10,
+"title": "футболка черная как у дениса ярошинского",
+"price": 1000,
+"description": "черная хз какой бренд",
+"image": "https://ir.ozone.ru/s3/multimedia-h/c1000/6674979833.jpg",
+"category": "clothing",
+"rating": 4.6
+}
+]
+}
